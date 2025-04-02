@@ -1,0 +1,67 @@
+[33mcommit dc775813d4436fc68922ead4a0f760cd6efcd32c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: 96a767f fe1a82f
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Wed Apr 2 12:05:45 2025 -0300
+
+    Correccion conflicto
+
+[33mcommit fe1a82fe353e7abfdef0db936021d2a413525643[m[33m ([m[1;32mmain[m[33m)[m
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Wed Apr 2 11:56:39 2025 -0300
+
+    Git 3 v3
+
+[33mcommit 96a767fdbc01ec1cbb41369dec097afe985c1dc3[m
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Wed Apr 2 11:56:16 2025 -0300
+
+    Git 3 v3 login
+
+[33mcommit 8d744284a4936ec87d15151d0d656167a5e5e109[m
+Merge: 00a006c 2a9ba54
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Wed Apr 2 11:36:19 2025 -0300
+
+    Merge branch 'main' into login
+
+[33mcommit 2a9ba54ba7b8bbebb7aeb73699abfb744410abca[m
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Wed Apr 2 11:33:05 2025 -0300
+
+    Git 3 v2
+
+[33mcommit 00a006c5bc28da534bbf4bbc59a3a9ffde777f98[m
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Wed Apr 2 11:27:41 2025 -0300
+
+    Login
+
+[33mcommit 6091e7515bb87a032dd44ed88d986fdc661dec37[m
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Sun Mar 30 11:15:01 2025 -0300
+
+    Este es mi quinto commit
+
+[33mcommit 4cbb8dc86b021c9f576e2ea78936c2a8f9dd176a[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Fri Mar 28 18:51:32 2025 -0300
+
+    Se agrega el git ignore
+
+[33mcommit fd507585360860580662850383e0cad9fbee2e66[m
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Fri Mar 28 18:38:34 2025 -0300
+
+    Se actualiza texto de print
+
+[33mcommit 805a347e36e65dbf3ae350e6f9e0b40e3dd2128b[m
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Fri Mar 28 18:28:49 2025 -0300
+
+    Este es mi segundo commit
+
+[33mcommit 7e3d33124540eaf37a96e9a18e6e305fcf576712[m[33m ([m[1;33mtag: [m[1;33mclase_primera[m[33m)[m
+Author: LautaroGoyo <lautarogoyoaga@gmail.com>
+Date:   Fri Mar 28 18:25:33 2025 -0300
+
+    Este es mi primer commit
